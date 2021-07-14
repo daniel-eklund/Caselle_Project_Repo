@@ -21,5 +21,5 @@ Drawing the shape dynamically via lines binded to our data<br>
 Adding shapes should be easy, would be fun as a proof of concept
 
 # Build #
-The release build is found in /Caselle_Project/bin/release/Caselle_Project.exe
+The release build is found in /Caselle_Project/bin/release/Caselle_Project.exe<br>
 If you would prefer to make your own build, the source is in /Caselle_Project
