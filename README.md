@@ -16,6 +16,6 @@ more traingles would be as simple as editing our xaml
 The best part of any project is noticing all the little
 things that you would want to add or impliment.
 -Canvas component:
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbspDrawing the shape dynamically via lines binded to our data
+Drawing the shape dynamically via lines binded to our data
 -More shapes:
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAdding shapes should be easy, would be fun as a proof of concept
+Adding shapes should be easy, would be fun as a proof of concept
